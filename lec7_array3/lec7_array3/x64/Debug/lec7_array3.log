@@ -1,0 +1,3 @@
+﻿  lec7_Array3.c
+D:\Date\data-strucutre-lab 2\lec7_array3\lec7_array3\lec7_Array3.c(8,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  lec7_array3.vcxproj -> D:\Date\data-strucutre-lab 2\lec7_array3\x64\Debug\lec7_array3.exe
