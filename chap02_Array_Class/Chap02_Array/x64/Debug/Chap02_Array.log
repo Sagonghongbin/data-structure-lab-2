@@ -1,3 +1,29 @@
 ﻿  array_param.cpp
 D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\array_param.cpp(8,3): error C2146: 구문 오류: ';'이(가) 'arr' 식별자 앞에 없습니다.
 D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\array_param.cpp(21,2): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
+  chap02_FindMax_.cpp
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(3,28): error C2062: 예기치 않은 'int' 형식입니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(3,35): error C2059: 구문 오류: ')'
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(4,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(4,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(12,2): error C2059: 구문 오류: 'return'
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(13,1): error C2059: 구문 오류: '}'
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(13,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(17,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(17,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(33,2): error C2059: 구문 오류: '{'
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(33,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(33,21): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(33,22): error C2059: 구문 오류: ','
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(34,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(34,22): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(34,23): error C2059: 구문 오류: ','
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(35,2): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(35,22): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(37,28): error C2065: 'arr': 선언되지 않은 식별자입니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(38,9): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(38,2): error C2365: 'printf': 재정의: 이전 정의는 '함수'입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdio.h(950): message : 'printf' 선언을 참조하십시오.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(40,17): error C2065: 'findMaxPixel': 선언되지 않은 식별자입니다.
+D:\Date\data-strucutre-lab 2\chap02_Array_Class\Chap02_Array\chap02_FindMax_.cpp(42,1): fatal  error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  코드를 생성하고 있습니다...
